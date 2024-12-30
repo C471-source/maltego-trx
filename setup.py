@@ -18,7 +18,8 @@ setup(
     install_requires=[
         'flask>=3.0.0',
         'cryptography>=41.0.0',
-        'requests>=2.31.0'
+        'requests>=2.31.0',
+        'appmap>=1.0.0'
     ],
     packages=[
         'maltego_trx',

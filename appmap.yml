@@ -1,0 +1,5 @@
+name: maltego-trx
+language: python
+appmap_dir: tmp/appmap
+packages:
+  - maltego_trx
